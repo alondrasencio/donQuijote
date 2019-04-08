@@ -1,0 +1,26 @@
+<html>
+  <head>
+ <link rel= "stylesheet" type="text/css" href="style.css">
+ <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+ <title> Inicio</title>
+ </head>
+ <body>
+ <div id= "wrapper">
+  <div id= "navbar">
+   <a href="index.html"><img class="fotoPersonaje" src="http://sinfaltas.com/wp-content/uploads/2016/04/Don_Quijote_y_Sancho.jpg"></a>
+   <a href= "https://uhs.upr.edu//">UHS</a>
+   <a href="dulcinea.html">Dulcinea</a>
+   <a href="marcela.html">Marcela</a>
+  
+  
+  
+  </div>
+ 
+ 
+ 
+
+ 
+ </div>
+ 
+ </body>
+</html>
