@@ -37,7 +37,7 @@ height: 70%;
 border-style: double;
 border-width:5px;
 margin-left: 65px;
-margin-top:65px;
+margin-top:95px;
 }
 .infoPersonaje {
 width:50%;
@@ -84,8 +84,19 @@ margin-left: 190px;
 margin-top:40px;
 }
 h4 {
-font-size:70px;
+font-size:60px;
 font-family: 'Satisfy', cursive;
-margin-left: 70px;
-margin-top:40px;
+margin-left: 50px;
+margin-top:20px;
 }
+#molino{
+display: flex ;
+flex-direction: row ;
+flex-wrap: wrap ;
+justify-content: space-around ;
+align-items: center ;
+align-content: center;
+width: 33%;
+padding-left:25.5%;
+}
+
